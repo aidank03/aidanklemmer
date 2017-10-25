@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Bovojon/bovojon.git"
+    "url": "git+https://github.com/aidank03/aidanklemmer.git"
   },
-  "author": "Jon",
+  "author": "Aidan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Bovojon/bovojon/issues"
+    "url": "https://github.com/aidank03/aidanklemmer/issues"
   },
-  "homepage": "https://github.com/Bovojon/bovojon#readme"
+  "homepage": "https://github.com/aidank03/aidanklemmer#readme"
 }

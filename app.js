@@ -2,7 +2,7 @@
   'use strict';
 
   angular
-    .module('bovojon', ['ui.router'])
+    .module('aidank03', ['ui.router'])
     .config(configFunction);
 
 
@@ -39,6 +39,10 @@
       .state('research', {
         url: '/research',
         templateUrl: 'views/research.html'
+      })
+      .state('resources', {
+        url: '/resources',
+        templateUrl: 'views/resources.html'
       });
 
   }
